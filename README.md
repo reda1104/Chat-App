@@ -2,6 +2,8 @@
 
 I developed a dynamic chat application using Flutter, a cutting-edge framework for building natively compiled applications for mobile, web, and desktop from a single codebase. The app features real-time messaging capabilities, intuitive user interface, and seamless cross-platform performance, demonstrating my proficiency in mobile app development and UI/UX design.
 
+![WhatsApp Image 2022-09-02 at 5 03 42 PM](https://github.com/reda1104/Chat-App/assets/69952638/df2d5f1c-0f89-400e-a002-fd92bca02171)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
