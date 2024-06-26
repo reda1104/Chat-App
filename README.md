@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+I developed a dynamic chat application using Flutter, a cutting-edge framework for building natively compiled applications for mobile, web, and desktop from a single codebase. The app features real-time messaging capabilities, intuitive user interface, and seamless cross-platform performance, demonstrating my proficiency in mobile app development and UI/UX design.
 
 ## Getting Started
 
